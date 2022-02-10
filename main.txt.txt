@@ -1,0 +1,12 @@
+Welcome  to GIT
+process 
+1.git init
+2.git add main.txt(file name)
+ OR
+3.git add .  (al file)
+4.git commit -m "First projexct created"
+5.git remote add origin https://github.com/SijanSakya/ProjectII.git (link form github)
+6.git push -u origin master
+7.git checkout -b slave (Switched to a new branch 'slave')
+8.git checkout master (Switched to branch 'master')
+9.
